@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a Software Test Automation Engineer in GameDev 👾
 <!--
 **tuobraun/tuobraun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
